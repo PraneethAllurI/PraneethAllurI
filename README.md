@@ -4,7 +4,7 @@ A passionate Full Stack Developer (MERN)
 💬 Ask me about react, javascript, html/css, Restfull API's
 👨‍💻 All of my projects are available at https://praneethalluri.github.io/
 📄 Know about my experiences https://drive.google.com/file/d/1NxjaH7013AeFb-M-y-T8ZCAboNideMuj/view?usp=sharing
-📫 How to reach me praneeth.allurii@gmail.com
+📫 How to reach me praneeth.alluri12@gmail.com
 Connect with me:
 username
 Languages and Tools:
